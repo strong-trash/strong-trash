@@ -2,14 +2,16 @@
 
 강력한 쓰레기톡 루트 도메인에 연결된 웹사이트입니다.
 
-https://strongtrash.com
+* https://strongtrash.com
+* https://github.com/strong-trash/strong-trash/
 
-이원진
 ---
 
 # $이^{준_근}$ 꺼임 **아무도** $건들지$ $._마셈$
 
 ---
+
+이원진
 
 공상현
 
