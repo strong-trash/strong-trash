@@ -4,7 +4,7 @@
 
 https://strongtrash.com
 
-이원진 멍청이
+이원진 멍청이 <br>
 이준근
 공상현
 장현규
