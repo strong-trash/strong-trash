@@ -11,7 +11,7 @@
 
 ---
 
-이원진
+이원진 📧 lee@wonj.in | 🌎 https://wonj.in/ | 🐈 https://github.com/wonjinYi
 
 공상현
 
@@ -29,4 +29,4 @@
 
 안창언
 
-이창근  ==> 눈물의 홈페이지 제작 완성기 (자기소개 , 포트폴리오 첨부 ) https://changgeun.strongtrash.com/
+이창근  ==> 😭😭눈물의😭😭 홈페이지 제작 완성기 ( 자기소개 , 포트폴리오 첨부 ) https://changgeun.strongtrash.com/ 😭
