@@ -13,7 +13,7 @@
 
 이원진 📧 lee@wonj.in | 🌎 https://wonj.in/ | 🐈 https://github.com/wonjinYi
 
-공상현 -> 여기서 제일 홈페이지 못 디자인 한 듯? https://my-portfolio-b289a.web.app/
+공상현 -> 여기서 제일 홈페이지 못 디자인 한 듯? 💻 https://snom.strongtrash.com/
 
 장현규
 
