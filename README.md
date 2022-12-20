@@ -29,4 +29,4 @@
 
 안창언
 
-이창근  ==> 😭😭눈물의😭😭 홈페이지 제작 완성기 ( 자기소개 , 포트폴리오 첨부 (2022-11-05 포트폴리오 typescript 컴포로 정리 , 카드형태로 만드는중) https://changgeun.strongtrash.com/ 😭
+이창근  ==> 😭😭눈물의😭😭 홈페이지 제작 완성기 ( 자기소개 전체 정리 완료-css custom 중 , 지뢰 찾기 만드는중 ) https://changgeun.strongtrash.com/ 😭
