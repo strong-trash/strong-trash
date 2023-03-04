@@ -29,4 +29,4 @@
 
 안창언
 
-이창근  ==> 😭😭눈물의😭😭 홈페이지 제작 완성기 ( 자기소개 전체 정리 완료-css custom 중 , 지뢰 찾기 만드는중 ) https://changgeun.strongtrash.com/ 😭
+이창근  ==> 😭😭눈물의😭😭 홈페이지 제작 완성기 ( 지뢰찾기 제작, 홈페이지 전체적 개조 ) https://changgeun.strongtrash.com/ 😭
